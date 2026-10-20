@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hunaras": {
+      "command": "npx",
+      "args": ["-y", "hunaras-mcp"],
+      "env": {
+        "HUNARAS_API_KEY": ""
+      }
+    }
+  }
+}

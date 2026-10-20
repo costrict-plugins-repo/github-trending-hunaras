@@ -1,0 +1,22 @@
+{
+  "name": "hunaras",
+  "description": "AI-native recruiting platform. Search jobs, manage applications, check AI interview assessments, schedule meetings, rate employers, post jobs, search candidates, and get hiring market insights.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Hunaras",
+    "url": "https://hunaras.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "recruiting",
+    "hiring",
+    "jobs",
+    "ai-interview",
+    "talent",
+    "hr",
+    "candidates",
+    "employers"
+  ],
+  "repository": "https://github.com/shaxbozaka/hunaras-mcp",
+  "homepage": "https://hunaras.com"
+}
